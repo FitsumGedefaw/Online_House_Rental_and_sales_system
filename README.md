@@ -1,5 +1,5 @@
 # Online_House_Rental_and_sales_system
-### All In One Home Rental and Sales System with Integrted Payment and Price recommendation
+### All In One Home Rental and Sales System with Integrated Payment and Price recommendation
 <hr>
 <br>
 
